@@ -48,6 +48,8 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 
 ### Bulb OFF → Relay OFF
 <img width="1920" height="1200" alt="Screenshot (434)" src="https://github.com/user-attachments/assets/cbb788cc-a912-4b86-b1bb-40facdec2040" />
+<img width="1150" height="853" alt="image" src="https://github.com/user-attachments/assets/5dcaeb82-3dc5-48c6-b535-1a0f3f5fa01f" />
+<img width="1149" height="854" alt="image" src="https://github.com/user-attachments/assets/d16a4d56-e1ad-4a9e-b9b4-42564140a9ee" />
 
 ## Conclusion
 The experiment demonstrates successful relay monitoring and control using LoRaWAN communication with real-time visualization on the dashboard.
